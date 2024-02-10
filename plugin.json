@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "Zing Truyện",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/zingtruyen.zip",
+      "version": 1,
+      "source": "https://zingtruyen.site/",
+      "icon": "https://zingtruyen.site/asset/favicon.ico",
+      "description": "Đọc truyện trên trang ZingTruyen",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "Đọc Truyện Full",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/doctruyenfull.zip",
